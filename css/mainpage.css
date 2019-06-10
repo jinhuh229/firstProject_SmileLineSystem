@@ -1,0 +1,61 @@
+body {
+	background-image: url("../teeth-dental-care-medical-background_1017-17395.jpg");
+  background-repeat: no-repeat;
+	background-size: 1300px 600px;
+}
+
+h1 {
+	color: black;
+	text-align: center;
+}
+
+.user-cases {
+	background-color: white;
+	position: fixed;
+	margin-top: 70px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 40px;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 300px;
+  height: 460px;
+	border-style: solid;
+	border-width: 5px;
+}
+
+.case-information {
+	background-color: white;
+	position: fixed;
+	margin-top: 70px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 400px;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 800px;
+  height: 460px;
+	border-style: solid;
+	border-width: 5px;
+	overflow: scroll;
+}
+
+h2 {
+	text-align: center;
+}
+
+button {
+	position: fixed;
+	/* margin-top: 325px; */
+  /* margin-bottom: 100px; */
+  /* margin-right: 150px; */
+  /* margin-left: 650px; */
+  /* top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0; */
+}
